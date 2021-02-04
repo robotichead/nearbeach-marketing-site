@@ -1,0 +1,32 @@
+<!-- Footer -->
+<div id="footer">
+	<div class="container">
+		<div class="row gtr-200">
+			<section class="col-4 col-6-medium col-12-xsmall">
+				<h3>Contact</h3>
+				<ul class="labeled-icons">
+					<li>
+						<h4 class="icon solid fa-home"><span class="label">GitHub:</span></h4>
+						<a href="https://github.com/robotichead/NearBeach" target="_blank">https://github.com/robotichead/NearBeach</a>
+					</li>
+					<li>
+						<h4 class="icon solid fa-phone"><span class="label">Documentation:</span></h4>
+						<a href="https://nearbeach.readthedocs.org" target="_blank">Documentation</a>
+					</li>
+					<li>
+						<h4 class="icon solid fa-envelope"><span class="label">Email</span></h4>
+						<a href="#">support@nearbeach.org</a>
+					</li>
+					<li>
+						<h4 class="icon brands fa-twitter"><span class="label">Twitter</span></h4>
+						<a href="https://twitter.com/robotichead">https://twitter.com/robotichead</a>
+					</li>
+				</ul>
+			</section>
+		</div>
+	</div>
+	<ul class="copyright">
+		<li>&copy; NearBeach. All rights reserved.</li>
+		<li>Theme built from Pixelarity - <a href="https://pixelarity.com/" target="_blank">https://pixelarity.com/</a></li>
+	</ul>
+</div>

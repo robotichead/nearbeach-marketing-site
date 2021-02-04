@@ -1,0 +1,11 @@
+<!-- Header -->
+<header id="header" class="alt">
+	<h1><a id="logo" href="index.html">NearBeach <span>because we care about your project</span></a></h1>
+	<nav id="nav">
+		<ul>
+			<!--<li><a href="index.html">Home</a></li>-->
+			<li><a href="https://www.surveymonkey.com/r/JH2RBHQ" target="_blank" class="button">Sign Up</a></li>
+		</ul>
+	</nav>
+</header>
+

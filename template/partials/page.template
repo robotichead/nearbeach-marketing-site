@@ -1,0 +1,23 @@
+<html>
+	<head>
+		@input("template/partials/head.content")
+	</head>
+
+	<body class="landing is-preload">
+		@input("template/partials/header.content")
+
+		@content
+		
+		@input("template/partials/footer.content")
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>
+

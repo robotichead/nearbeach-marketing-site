@@ -1,0 +1,5 @@
+@input("template/index/banner.content")
+
+@input("template/index/section_1.content")
+
+@input("template/index/section_2.content")

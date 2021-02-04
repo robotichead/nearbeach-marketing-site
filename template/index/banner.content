@@ -1,0 +1,17 @@
+<!-- Banner -->
+<section id="banner">
+	<div class="inner">
+		<h2>NearBeach - the new look</h2>
+		<p>We heard your input, and have improved NearBeach for you</p>
+		<ul class="actions special">
+			<li><a href="https://www.surveymonkey.com/r/JH2RBHQ" class="button primary large" target="_blank">Sign Up</a></li>
+			<li><a href="#learn-more" class="button large">Learn More</a></li>
+		</ul>
+	</div>
+	<div class="browser-mockup">
+		<div class="chrome">
+			<span class="url">https://nearbeach.app</span>
+		</div>
+		<img src="images/banner.jpg" alt="The new simple design" />
+	</div>
+</section>

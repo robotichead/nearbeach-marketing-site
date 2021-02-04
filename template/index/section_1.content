@@ -1,0 +1,19 @@
+<!-- One -->
+<section id="one" class="wrapper style1">
+	<div class="container">
+		<div class="row">
+			<div class="col-4 col-12-medium">
+				<h3 class="icon solid fa-code">Open Source</h3>
+				<p>NearBeach is open source - so there are no self hosting costs (excluding your own server costs).</p>
+			</div>
+			<div class="col-4 col-12-medium">
+				<h3 class="icon solid fa-gem">SASS NearBeach</h3>
+				<p>Click on the "Sign Up" button above. Currently we are in a closed Alpha</p>
+			</div>
+			<div class="col-4 col-12-medium">
+				<h3 class="icon solid fa-mobile-alt">Mobile Friendly</h3>
+				<p>We have designed NearBeach from the ground up to be as mobile friendly as possible. So you can use it on your commute into work - to get ahead in your day.</p>
+			</div>
+		</div>
+	</div>
+</section>
